@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhello=self.webpackChunkhello||[]).push([[472],{6647:function(e){e.exports=JSON.parse('{"permalink":"/GentWater/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
